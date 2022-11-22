@@ -145,8 +145,6 @@ summary(lr)
 plot(lr)
 
 
-
-
 # Plot the chart.
 plot(data$X1961,data$X1963,col = "blue",
      main = "1961 & 1963 GDP Regression",
